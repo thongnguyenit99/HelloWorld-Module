@@ -9,3 +9,5 @@
         </route>
     </router>
 </config>
+
+<!-- When click url:helloworld/homepage then show HelloWorld ThongNv-->
